@@ -1,0 +1,16 @@
+{
+    "name": "kyaky/my-php-project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kyaky\\MyPhpProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyakyle56",
+            "email": "kyakyle56@gmail.com"
+        }
+    ],
+    "require": {}
+}
